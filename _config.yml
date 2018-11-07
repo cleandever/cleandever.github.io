@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            열정적 끈기
+description:      try, fail, learn, repeat
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           cleandever
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  email:          cleandever@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -26,7 +26,7 @@ owner:
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background: /images/abstract-5.jpg 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
