@@ -4,7 +4,6 @@ title: "텐서보드 이벤트 파일에서 이미지 추출"
 tags: [텐서보드, tensorboard, keras, tensorflow, 이미지저장, 이미지추출]
 image:
   path: /images/abstract-2.jpg
-  feature: abstract-2.jpg
 comments: true
 ---
 

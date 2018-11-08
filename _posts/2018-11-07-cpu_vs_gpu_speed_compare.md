@@ -4,7 +4,6 @@ title: "MLP 모델에 대한 CPU vs GPU 수행 시간 비교"
 tags: [cpu vs gpu, deep learning, machine learning, mlp train time]
 image:
   path: /images/abstract-1.jpg
-  feature: abstract-1.jpg
 comments: true
 ---
 
