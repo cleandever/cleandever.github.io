@@ -9,11 +9,7 @@ comments: true
 
 텐서플로우를 통해서 크고 복잡한 모델 사용하는 경우 이를 이해하고 디버깅하고 최적화하기 위해서 텐서보드 툴을 사용합니다. 텐서보드 툴을 통해서 학습 과정을 visualization 할 수 있습니다. 텐서보드는 웹 브라우저를 통해서 학습 과정 및 기록을 확인 할 수 있습니다.
 
-
-
-이미지
-
-
+![tensorboard](/images/2018/11/08_tensorboard/tensorboard_capture.png)
 
 케라스에서 텐서보드를 연동하는 방법은 TensorBoard 클래스를 생성하고, fit() 호출시 콜백 함수로 지정을 해주면 됩니다.
 
@@ -81,10 +77,4 @@ save_image(args.filename, "loss")
 save_image(args.filename, "acc")
 save_image(args.filename, "val_loss")
 save_image(args.filename, "val_acc")
-[출처] 텐서보드 이벤트 파일에서 이미지 추출|작성자 cleandever
 ```
-
-
-
-
-
