@@ -60,7 +60,7 @@ Neural Network 모델을 무언가 해보겠다면 GPU가 필수적입니다. �
 
 ## Keras로 구현한 MLP 모델 코드
 
-```
+```python
 import time
 import random
 import keras
